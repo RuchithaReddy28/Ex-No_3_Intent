@@ -3,7 +3,7 @@
 Develop program to perform explicit and implicit intent by creating a buttons using Android Studio
 
 ## AIM:
-To develop a program to perform explicit and implicit intent by creating a buttons using Android Studio
+To develop a program to perform explicit and implicit intent by creating a buttons using Android StudiO
 
 ## EQUIPMENTS REQUIRED:
 
